@@ -1,11 +1,11 @@
 Tech Stack: 
- - Linux
- - Git
- - GitHub
- - AWS
- - Python 
- - Terraform
- - Ansible
- - Docker
- - K8s
- - Grafana
+ - Linux - Basic
+ - Git - Basic 
+ - GitHub - version control system - to store code
+ - AWS - Basic to some extend. 
+ - Python - basic is enough for devops
+ - Terraform - mandatory for devops  - IAC - infrastructure as a code (opentfu , pulumi)
+ - Ansible - Confirguration managemnet system - (chef, puppet)
+ - Docker - advanced
+ - K8s - very improtant 
+ - Grafana - 
