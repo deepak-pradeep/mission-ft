@@ -1,0 +1,11 @@
+Tech Stack: 
+ - Linux
+ - Git
+ - GitHub
+ - AWS
+ - Python 
+ - Terraform
+ - Ansible
+ - Docker
+ - K8s
+ - Grafana
